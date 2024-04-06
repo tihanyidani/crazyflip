@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sensor_processor.dir/src/SensorProcessor.cpp.o  -o /home/tihanyid/crazyflip_ws/devel/lib/crazyflie/sensor_processor 

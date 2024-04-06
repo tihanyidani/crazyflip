@@ -1,0 +1,8 @@
+prefix=/home/tihanyid/crazyflip_ws/devel
+
+Name: orchestrator
+Description: Description of orchestrator
+Version: 0.0.0
+Cflags: -I/home/tihanyid/crazyflip_ws/devel/include -I/home/tihanyid/crazyflip_ws/src/orchestrator/include
+Libs: -L${prefix}/lib -lsimulator
+Requires: roscpp rospy webots_ros std_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/tihanyid/crazyflip_ws/devel
+
+Name: supervisor
+Description: Description of supervisor
+Version: 0.0.0
+Cflags: -I/home/tihanyid/crazyflip_ws/src/supervisor/include
+Libs: -L${prefix}/lib -lsupervisor
+Requires: roscpp rospy std_msgs webots_ros

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <arg name="name" default="pilot" doc="Name of pilot"/>
+  <node name="$(arg name)" pkg="pilot" type="pilot_node" args="$(arg name)"/>
+</launch>

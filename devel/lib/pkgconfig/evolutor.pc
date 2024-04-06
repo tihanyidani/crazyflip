@@ -1,0 +1,8 @@
+prefix=/home/tihanyid/crazyflip_ws/devel
+
+Name: evolutor
+Description: Description of evolutor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

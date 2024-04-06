@@ -1,0 +1,25 @@
+(cl:defpackage crazyflie-msg
+  (:use )
+  (:export
+   "<COMMAND>"
+   "COMMAND"
+   "<INPUT>"
+   "INPUT"
+   "<MEASUREMENT>"
+   "MEASUREMENT"
+   "<PLANACTION>"
+   "PLANACTION"
+   "<PLANACTIONFEEDBACK>"
+   "PLANACTIONFEEDBACK"
+   "<PLANACTIONGOAL>"
+   "PLANACTIONGOAL"
+   "<PLANACTIONRESULT>"
+   "PLANACTIONRESULT"
+   "<PLANFEEDBACK>"
+   "PLANFEEDBACK"
+   "<PLANGOAL>"
+   "PLANGOAL"
+   "<PLANRESULT>"
+   "PLANRESULT"
+  ))
+

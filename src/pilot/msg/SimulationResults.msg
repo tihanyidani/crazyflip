@@ -1,0 +1,3 @@
+bool has_survived
+float64 survival_time
+float64 fitness

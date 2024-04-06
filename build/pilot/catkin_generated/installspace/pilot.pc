@@ -1,0 +1,8 @@
+prefix=/home/tihanyid/crazyflip_ws/install
+
+Name: pilot
+Description: Description of pilot
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lsimulator
+Requires: roscpp rospy webots_ros std_msgs message_runtime actionlib_msgs rosbag

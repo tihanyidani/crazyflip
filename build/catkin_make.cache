@@ -1,0 +1,2 @@
+orchestrator:pilot:webots_ros
+-DCATKIN_DEVEL_PREFIX=/home/tihanyid/crazyflip_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tihanyid/crazyflip_ws/install -G Unix Makefiles

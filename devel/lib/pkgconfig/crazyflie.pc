@@ -1,0 +1,8 @@
+prefix=/home/tihanyid/crazyflip_ws/devel
+
+Name: crazyflie
+Description: Description of crazyflie
+Version: 0.0.0
+Cflags: -I/home/tihanyid/crazyflip_ws/devel/include -I/home/tihanyid/crazyflip_ws/src/crazyflie/include
+Libs: -L${prefix}/lib -lcrazyflie
+Requires: webots_ros roscpp rospy actionlib_msgs std_msgs message_runtime
